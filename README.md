@@ -25,7 +25,7 @@ This project provides a Docker container for a Java application using OpenJDK 17
 ```bash
 docker build -t buid_img_name .
 docker run -p 8080:8080 image_name
-
+```
 
 ## Docker
 With Docker, your application is always packed and ready for an adventure! It is the ultimate problem-solver in the developer’s toolkit.
